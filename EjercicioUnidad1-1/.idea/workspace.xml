@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff5267ee-44f3-48b2-b1a0-0d219f04ebd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/Ejercicio-1.2c.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio-1.2c/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ACD/LeerFicheroRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ACD/LeerFicheroRandom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACD/EjercicioUnidad1-5/src/OtraClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ACD/EjercicioUnidad1-5/src/PreguntaNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,8 @@
       <workItem from="1664346512122" duration="736000" />
       <workItem from="1664348875533" duration="596000" />
       <workItem from="1664350023538" duration="76000" />
+      <workItem from="1664883087339" duration="2215000" />
+      <workItem from="1664886515491" duration="1000" />
     </task>
     <servers />
   </component>

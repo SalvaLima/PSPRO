@@ -10,7 +10,7 @@ public class Main {
 
         Map<String,String> entorno = pb.environment();
 
-        for (String key: entorno.keySet()) {
+        for (String key : entorno.keySet()) {
 
             System.out.println("Clave : " + key);
 

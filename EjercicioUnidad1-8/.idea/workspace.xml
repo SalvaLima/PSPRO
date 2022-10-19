@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1604b3-3fb3-419c-ae15-231cecdadf79" name="Changes" comment="">
+    <list default="true" id="ba999ebf-9e7d-4b64-82db-240d123f806e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../EjercicioUnidad1-7/marginal.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EjercicioUnidad1-7/src/clase1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EjercicioUnidad1-7/src/clase2.java" afterDir="false" />
@@ -18,10 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2FfWHcrUmojWR7Y0o3EGshbhCNi" />
+  <component name="ProjectId" id="2GJ122wtHFP7F4VTX8gSCWHG2kL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,23 +26,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/slima/Desktop/Segundo/PSP/EjercicioUnidad1-5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "last_opened_file_path": "C:/Users/slima/Desktop/Segundo/PSP/EjercicioUnidad1-3"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e1604b3-3fb3-419c-ae15-231cecdadf79" name="Changes" comment="" />
-      <created>1664883533248</created>
+      <changelist id="ba999ebf-9e7d-4b64-82db-240d123f806e" name="Changes" comment="" />
+      <created>1666091663031</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664883533248</updated>
-      <workItem from="1664883534785" duration="1741000" />
-      <workItem from="1666091711849" duration="18000" />
+      <updated>1666091663031</updated>
+      <workItem from="1666091664301" duration="46000" />
     </task>
     <servers />
   </component>
