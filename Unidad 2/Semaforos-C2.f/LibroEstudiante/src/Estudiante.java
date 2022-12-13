@@ -1,5 +1,3 @@
-
-
 public class Estudiante implements Runnable {
 
     public static boolean [] libros = new boolean[9];

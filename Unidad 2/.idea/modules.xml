@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjercicioFilosofos/EjercicioFilosofos.iml" filepath="$PROJECT_DIR$/EjercicioFilosofos/EjercicioFilosofos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioHilos-C2c/EjercicioHilos-C2c.iml" filepath="$PROJECT_DIR$/EjercicioHilos-C2c/EjercicioHilos-C2c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioNumOculto-C2e/EjercicioNumOculto-C2e.iml" filepath="$PROJECT_DIR$/EjercicioNumOculto-C2e/EjercicioNumOculto-C2e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaforos-C2.f/LibroEstudiante/LibroEstudiante.iml" filepath="$PROJECT_DIR$/Semaforos-C2.f/LibroEstudiante/LibroEstudiante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaSegundoTema/PruebaSegundoTema.iml" filepath="$PROJECT_DIR$/PruebaSegundoTema/PruebaSegundoTema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaforos-C2.f/Semaforos-C2.f.iml" filepath="$PROJECT_DIR$/Semaforos-C2.f/Semaforos-C2.f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SincronizacionEstructuraDatos/SincronizacionEstructuraDatos.iml" filepath="$PROJECT_DIR$/SincronizacionEstructuraDatos/SincronizacionEstructuraDatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unidad 2.iml" filepath="$PROJECT_DIR$/.idea/Unidad 2.iml" />
+    </modules>
+  </component>
+</project>
